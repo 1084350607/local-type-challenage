@@ -1,0 +1,23 @@
+{
+  "name": "local-type-challenge",
+  "version": "1.0.0",
+  "description": "Type-challenge local prcatice environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1084350607/local-type-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1084350607/local-type-challenge/issues"
+  },
+  "homepage": "https://github.com/1084350607/local-type-challenge#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^4.6.4"
+  }
+}
