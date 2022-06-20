@@ -1,6 +1,6 @@
 # local-type-challenge
 
-本地联系环境
+本地环境
 
 Type-challenge local prcatice environment
 
